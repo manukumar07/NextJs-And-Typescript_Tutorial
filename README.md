@@ -1,4 +1,4 @@
-📚 Next.js & TypeScript Learning Project
+## 📚 Next.js & TypeScript Learning Project
 
 Welcome to my Next.js and TypeScript learning project! This repository is focused on exploring the capabilities of Next.js and TypeScript to build scalable, efficient, and feature-rich applications.
 
